@@ -1,0 +1,11 @@
+# Dataset
+BRACOL_BBOX_BACKUP/
+BRACOL_REVIEWED/
+BRACOL_SEG_SAM/
+# Repo sam2 clone tu facebookresearch/sam2
+sam2/
+# Weights
+/*.pt
+/weights/
+runs/**/last.pt
+__pycache__/

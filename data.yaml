@@ -1,0 +1,13 @@
+path: D:\NCKH2026-2027 - Copy\BRACOL_SEG_SAM
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+
+names:
+  0: Cercospora
+  1: Miner
+  2: Phoma
+  3: Rust
